@@ -1,0 +1,27 @@
+Introduction to Audio Library
+
+1. IPython (untuk display audio)
+
+2. Soundfile (basic read write audio)
+
+3. Wave (buat read dan write dengan lebih banyak informasi)
+
+4. Pydub (bisa read write dan dapat melakukan augmentasi dasar)
+   - Volume up and down
+   - Repeat an Cut
+   - Fade in/Fade out
+   - Reverse
+   - Slicing
+
+5. Librosa (melakukan augmentasi advance)
+   - Plot wave
+   - Pitch scaling
+   - Time stretch
+   - White noise
+   - Random gain
+
+6. Torchaudio (paling advance, bisa plot waveform/gelombang dan spectogram serta resample)
+   - Plot wave
+   - Plot spectogram
+   - Resample
+
